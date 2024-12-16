@@ -1,0 +1,1 @@
+For Data Bootcamp final. There is a .py file containin information about how the dataset was generated, a .py file containing information about the code needed to model, and two jupyter notebooks containing the writeups with graphs and analysis.
